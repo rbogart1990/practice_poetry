@@ -2,6 +2,7 @@
 name = "practice-poetry"
 version = "0.1.0"
 description = ""
+license = "MIT"
 authors = ["rbogart1990 <robbyt543@gmail.com>"]
 readme = "README.md"
 
